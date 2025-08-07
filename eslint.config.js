@@ -5,6 +5,14 @@ import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 
 export default [
+  {
+  "plugins": ["import"],
+  "rules": {
+    "import/no-unresolved": "error",
+    "import/no-case-sensitive-paths": "error"
+  }
+}
+,
   { ignores: ['dist'] },
   {
     files: ['**/*.{js,jsx}'],
