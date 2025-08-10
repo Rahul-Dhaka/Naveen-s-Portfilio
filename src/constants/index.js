@@ -230,13 +230,8 @@ export const mySocials = [
     icon: "/assets/socials/whatsApp.svg",
   },
   {
-    name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
-    icon: "/assets/socials/linkedIn.svg",
-  },
-  {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/navendhaka?igsh=MWNicnpnOGg3OXpwdg==",
     icon: "/assets/socials/instagram.svg",
   },
 ];
